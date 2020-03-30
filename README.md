@@ -52,7 +52,7 @@ your team.
 datasets/features, and pushing it to GitHub again.
 - The data repo is maintained by [Fabrizio Leone](https://github.com/Fab993). Please contact him if you want to contribute or have questions.
 
-### 3. Code and analysis:
+### 3. Code and perform analysis:
 
 - Code up your analysis, possibly in Python (to keep our learning curve for the Python-do-group). But let
 the framework not hinder your workflow. Feel free to work in Stata, R, or anything that keeps your pace
@@ -77,6 +77,12 @@ notebooks](https://www.datacamp.com/community/tutorials/markdown-in-jupyter-note
 translate these to Markdown for release on the site.
 - All blogs/articles will be published on website. People can subscribe on the RSS feed, and we seek to
 reach out to organizations/outlets to take us up too.
+
+## 3. Other contributions
+
+Any help, collaboration and contribution is very much welcome. There is no need to only write up blogs or papers. If you want to contribute your skills by resolving issues in particular projects, proofread, or give feedback on models or really anything else, that is highly appreciated.
+If you don't know where to start, take a look at a project that interests you, and see if there are any open issues that you might help resolve. And feel free to contact the collaborators of that project with any questions/comments/feedback you might have!
+
 
 Looking forward,
 
