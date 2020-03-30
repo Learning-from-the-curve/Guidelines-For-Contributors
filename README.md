@@ -80,6 +80,6 @@ reach out to organizations/outlets to take us up too.
 
 Looking forward,
 
-[Federico Gallina](https://github.com/FedeGall), [Fabrizio Leone](https://github.com/Fab993) and [Glenn Magerman](https://github.com/glennmagerman)
+[Federico Gallina](https://github.com/FedeGall), [Fabrizio Leone](https://github.com/Fab993) and [Glenn Magerman](https://github.com/glennmagerman).
 
 
