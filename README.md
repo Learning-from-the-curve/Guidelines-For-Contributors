@@ -44,13 +44,13 @@ for your project. Each project is a separate repo.
 ### 2. Collect data:
 
 - Several datasets on the topic are made available [here](https://github.com/Learning-from-the-curve/Data), including global COVID case data, population statistics, and national accounts for EU28. More datasets will be added as we proceed. Links to other potential
-datasets are available.
-- Run the script to get the latest data, and collect other data yourself. Save the data locally to work on with
+datasets are available there as well.
+- Run the script to get the latest data, and/or collect data yourself. Save the data locally to work on with
 your team.
 - If you use some data that is not on the repo, and that can be of interest to other projects as well, ask
-Fabrizio Leone to add them to the GitHub repo. You can also contribute by cloning the repo, adding
+[Fabrizio Leone](https://github.com/Fab993) to add them to the GitHub repo. You can also contribute by cloning the repo, adding
 datasets/features, and pushing it to GitHub again.
-- This repo is maintained by [Fabrizio Leone](https://github.com/Fab993). Please contact him if you want to contribute or have questions.
+- The data repo is maintained by [Fabrizio Leone](https://github.com/Fab993). Please contact him if you want to contribute or have questions.
 
 ### 3. Code and analysis:
 
@@ -70,15 +70,16 @@ the website itself.
 ### 5. Publish article/blog:
 
 - When you are done, open an issue under the project repo to [Glenn Magerman](https://github.com/glennmagerman) and [Federico Gallina](https://github.com/FedeGall). We
-will proofread and format for “publication”.
-- For articles, you can send the output in Markdown. Writing in Markdown is surprisingly easy: iPython
-notebooks, Python IDEs, Stata or R.
+will proofread and format for publication.
+- For articles, you can send the output in Markdown. Writing in Markdown is surprisingly easy: [iPython
+notebooks](https://www.datacamp.com/community/tutorials/markdown-in-jupyter-notebook), [Python IDEs](https://python-markdown.github.io), [Stata](https://data.princeton.edu/stata/markdown) or [R](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html). GitHub also [supports](https://guides.github.com/features/mastering-markdown/) markdown.
 - If you are most comfortable with Word or LateX, feel free to send the output in those formats. We will
 translate these to Markdown for release on the site.
 - All blogs/articles will be published on website. People can subscribe on the RSS feed, and we seek to
 reach out to organizations/outlets to take us up too.
 
+Looking forward,
 
-
+[Federico Gallina](https://github.com/FedeGall), [Fabrizio Leone](https://github.com/Fab993) and [Glenn Magerman](https://github.com/glennmagerman)
 
 
