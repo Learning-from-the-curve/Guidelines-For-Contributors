@@ -62,7 +62,8 @@ high.
 
 - Push your code to GitHub once you are happy and have a stable release.
 - Any potential collaborator can contribute to any released project by opening issues to ask for additional
-features, functionalities, or clone & push the repo to contribute directly.
+features, functionalities, or clone & push the repo to contribute directly. 
+- If you open an issue, don't forget to assign a person to that task, so (s)he gets a notification.
 - Create a GitHub project on your project for task management: next steps to do, what is done, etc. This also
 invites other people to collaborate on your project and keep moving when stuck. There is also a project for
 the website itself.
